@@ -1,0 +1,74 @@
+
+/*  diseño general */
+body{
+    background-color: #C4C4C4;
+}
+
+
+/* diseño header */
+header{
+   background-color: #E5E5E5;
+   background-size: cover;
+}
+#batman{
+    text-align: center;
+}
+h1{
+    background-color:#C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    letter-spacing: 10px;
+
+}
+
+/* diseño main */
+main{
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+h3{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    width: 1041px;
+    height: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+.datos-personales{
+    font-weight: bold;
+
+}
+
+.listas-principales{
+    margin-left: 110px;
+}
+
+.años{
+    font-weight: bold;
+}
+
+
+/* diseño footer */
+footer{
+    background-color: #005677;
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    width: 1440px;
+    height: 37px;
+    margin-top: 10px; 
+    line-height: 16.94px; 
+    font-style: normal;
+    font-size: 20px;
+
+}
+.imagen-redes{
+    margin-left: 20px;
+    height: 20px;
+    top: 996px;
+        
+}
